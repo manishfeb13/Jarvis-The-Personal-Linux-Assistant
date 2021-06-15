@@ -30,8 +30,6 @@ Run Jarvis:
 
 To get started with your contributions for Jarvis-personal-assistant see [CONTRBUTING.md](https://github.com/Harkishen-Singh/Jarvis-personal-assistant/blob/master/CONTRIBUTING.md)
 
-### Explanatory Video
-[![Jarvis explanatory video](https://files.gitter.im/Harkishen-Singh/QIzs/Screenshot-_38_.png)](https://youtu.be/jztI_iN82RY)
 
 ## What Jarvis can do?
 
